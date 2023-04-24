@@ -3,7 +3,7 @@ p {
   font-style: italic;
 }
 #fotoprincipal {
-  background-image: url("/asset/imgs/console.jpg");
+  background-image: url("../imgs/console.jpg");
   background-size: cover;
 }
 #presentacion {
