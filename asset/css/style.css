@@ -1,9 +1,12 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
 p {
   margin: 0;
-  font-style: italic;
 }
 #fotoprincipal {
-  background-image: url("../imgs/console.jpg");
+  background-image: url("../imgs/florian-olivo-JNz9bQD3Oio-unsplash.jpg");
   background-size: cover;
 }
 #presentacion {
